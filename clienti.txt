@@ -1,0 +1,5 @@
+pinco
+pallo
+tizio
+caio
+sempronio
